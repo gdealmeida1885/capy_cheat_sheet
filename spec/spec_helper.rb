@@ -1,5 +1,6 @@
 require 'capybara/rspec'
 require 'selenium-webdriver'
+require 'pry'
 
 
 RSpec.configure do |config|
